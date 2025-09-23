@@ -1,8 +1,9 @@
 # Garage Door - Student Exercise 02
 
-**Simulation:** Door ex02
-**Platform:** RSLogix 500 
-**Author:** Sam M.
+- **Simulation:** Door ex02
+- **Platform:** RSLogix 500 
+- **Author:** Sam M.
+- **Source:** TLP Door Exercises
 
 
 ## Problem Statement (copied verbatim)
