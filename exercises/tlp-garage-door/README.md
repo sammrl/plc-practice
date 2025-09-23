@@ -1,9 +1,9 @@
 # Garage Door Overview   
 
-**Simulation:** LogixPro Door Simulator  
-**Platform:** RSLogix 500 (Emulator by TLP)
-**Author:** Sam M.
-**Source:** [TLP Door Exercises](https://thelearningpit.com/lp/doc/dl/dl-rl.html)
+- **Simulation:** LogixPro Door Simulator  
+- **Platform:** RSLogix 500 (Emulator by TLP)
+- **Author:** Sam M.
+- **Source:** [TLP Door Exercises](https://thelearningpit.com/lp/doc/dl/dl-rl.html)
 
 ## System Overview
 2 Motors that move door up and down, 2 Limit Switches, operator panel with Open, Close and Stop PBs and (3) pilot lamps. 
