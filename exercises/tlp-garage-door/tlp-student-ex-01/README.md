@@ -1,4 +1,4 @@
-# Garage Door Ex01  
+# Garage Door - Student Exercise 01  
 
 **Simulation:** Door ex01
 **Platform:** RSLogix 500 
@@ -63,7 +63,7 @@
 
 
 ## Safety & Interlocks
-- Safety interlock - XIO `Motor Down` and XIO `Motor Up` - prevents motors from running at same time.
+- Safety interlock - XIO `Motor Down` and XIO `Motor Up` on OTE 'Motor Up' and on OTE `Motor Down`, respectivley - prevents motors from running at same time.
 - Limit Switches used to sense door position - `LS1` and `LS2` act as guards from door proceding past the fully open or fully closed position, respectivley. 
 
 ## State Model
